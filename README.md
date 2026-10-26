@@ -20,3 +20,7 @@
 
 ## My Favorite Technology
 Cellphones! They're great, and really convenient since it gives me a portable computer pretty much. Besides, its always by my side anyways so it was the only obvious answer for me.
+
+## Reflection
+"How does Git help you manage changes to your work?"
+It makes things much easier! It enables me to visit each ‘screenshots’ to see what was changed while keeping it neatly separate from what you’re currently working on!
